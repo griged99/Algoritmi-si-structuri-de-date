@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579011520 source:e:\code\ema6-ex1\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
