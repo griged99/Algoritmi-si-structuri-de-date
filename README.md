@@ -36,8 +36,7 @@ de pini ce trebuie conectati cu fire metalice. Problema cere sa determinati in t
 daca pentru o configuratie ca mai sus, pinii pereche pot fi conectati, fara ca acestea
 sa se intersecteze. La intrare se vor citi:
 - n numarul de pini;
-- pereche[n] un vector de n componente, unde pereche[i]==pereche[j],
-1 <= i < j <= n , daca pinii i si j trebuie conectati.
+- pereche[n] un vector de n componente, unde pereche[i]==pereche[j],1 <= i < j <= n , daca pinii i si j trebuie conectati.
 10. Să se scrie un algoritm pentru evaluarea unei expresii matematice în notație
 postfix (forma poloneză).
 11. Sa se implementeze o coada de numere intregi, cu urmatoarele operatii:
